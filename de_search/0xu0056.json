@@ -14,6 +14,7 @@
 	{ "s": "VERDES", "p": [8] },
 	{ "s": "VERIFICA", "p": [10] },
 	{ "s": "VEZ", "p": [11] },
+	{ "s": "VIDEOS", "p": [14] },
 	{ "s": "VISTA", "p": [7, 6, 5, 4, 3] },
 	{ "s": "VISTAS", "p": [8] },
 	{ "s": "VISUALIZAR", "p": [3] }

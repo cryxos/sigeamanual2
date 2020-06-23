@@ -8,9 +8,10 @@
 	"7": ["1.5. Búsqueda según ... ¡Se requiere una licencia Advanced!", "busqueda_segun_ubicacion_territorial.htm", [1]],
 	"8": ["1.6. Consulta ... ¡Se requiere una licencia Advanced!", "consulta_de_estadisticas.htm", [1]],
 	"9": ["1.7. I... ¡Se requiere una licencia Advanced!", "intranet.htm", [1]],
-	"10": ["1.7.1. Acces... ¡Se requiere una licencia Advanced!", "acceso_al_intranet.htm", [1,9]],
+	"10": ["1.7.1. Acces... ¡Se requiere una licencia Advanced!", "acceso_al_intranet.htm", [1,10]],
 	"11": ["1.8. Registro de var... ¡Se requiere una licencia Advanced!", "registro_de_variables___indicadores.htm", [1]],
 	"12": ["1.9. M... ¡Se requiere una licencia Advanced!", "mensajes.htm", [1]],
 	"13": ["1.10. Contro... ¡Se requiere una licencia Advanced!", "control_de_procesos.htm", [1]],
-	"14": ["2. F... ¡Se requiere una licencia Advanced!", "f_a_q_.htm", []]
+	"14": ["2. Videos... ¡Se requiere una licencia Advanced!", "videos_de_ayuda.htm", []],
+	"15": ["3. F... ¡Se requiere una licencia Advanced!", "f_a_q_.htm", []]
 }
