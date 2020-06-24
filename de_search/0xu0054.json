@@ -8,7 +8,7 @@
 	{ "s": "TEMPORALIDADES", "p": [11] },
 	{ "s": "TENDENCIA", "p": [8, 11] },
 	{ "s": "TENER", "p": [11, 3] },
-	{ "s": "TERRITORIAL", "p": [11, 7, 10, 8, 3, 2] },
+	{ "s": "TERRITORIAL", "p": [11, 7, 10, 8, 3] },
 	{ "s": "TERRITORIALÑ", "p": [11] },
 	{ "s": "TERRITORIO", "p": [4] },
 	{ "s": "TEXTO", "p": [11, 4] },
@@ -28,5 +28,5 @@
 	{ "s": "TRÁMITES", "p": [13] },
 	{ "s": "TÉCNICA", "p": [11, 13] },
 	{ "s": "TÉRMINO", "p": [11] },
-	{ "s": "TÍTULO", "p": [4, 2] }
+	{ "s": "TÍTULO", "p": [4] }
 ]
