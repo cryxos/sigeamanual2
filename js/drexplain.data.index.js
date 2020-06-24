@@ -6,7 +6,7 @@ DR_EXPLAIN.data_index = {
 	DREX_NODE_KEYWORDS_START: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], //length:= drex.nodes_count,
 	DREX_NODE_KEYWORDS_END: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], //length:= drex.nodes_count,
 
-	DREX_KEYWORD_NAMES: ["<NUEVA PAL... ¡Se requiere una licencia Advanced!"],
+	DREX_KEYWORD_NAMES: ["<NUEVA PALABRA CLAVE>"],
 	DREX_KEYWORD_CHILD_START: [1],
 	DREX_KEYWORD_CHILD_END: [1]
 	

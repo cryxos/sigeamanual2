@@ -3,14 +3,12 @@
 	{ "s": "TABLAS", "p": [10] },
 	{ "s": "TAMBIÉN", "p": [8] },
 	{ "s": "TANTO", "p": [11] },
-	{ "s": "TAREAS", "p": [15, 14] },
 	{ "s": "TECNICA", "p": [11] },
-	{ "s": "TEMA", "p": [15, 14] },
 	{ "s": "TEMPORALIDAD", "p": [11, 8] },
 	{ "s": "TEMPORALIDADES", "p": [11] },
 	{ "s": "TENDENCIA", "p": [8, 11] },
 	{ "s": "TENER", "p": [11, 3] },
-	{ "s": "TERRITORIAL", "p": [11, 7, 10, 8, 3] },
+	{ "s": "TERRITORIAL", "p": [11, 7, 10, 8, 3, 2] },
 	{ "s": "TERRITORIALÑ", "p": [11] },
 	{ "s": "TERRITORIO", "p": [4] },
 	{ "s": "TEXTO", "p": [11, 4] },
@@ -30,5 +28,5 @@
 	{ "s": "TRÁMITES", "p": [13] },
 	{ "s": "TÉCNICA", "p": [11, 13] },
 	{ "s": "TÉRMINO", "p": [11] },
-	{ "s": "TÍTULO", "p": [4] }
+	{ "s": "TÍTULO", "p": [4, 2] }
 ]

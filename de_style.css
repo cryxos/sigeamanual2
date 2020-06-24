@@ -70,16 +70,15 @@ font-style:italic;
 text-decoration:none;
 font-weight:normal;
 }
+img.de_75F9C4A440
+{
+margin-top: 3px; margin-right: 3px; margin-bottom: 3px; margin-left: 3px;}
 img.de_780D01ADE8
 {
 margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
 img.de_D457E58A2E
 {
 margin-top: 0px; margin-right: 8px; margin-bottom: 8px; margin-left: 8px;}
-span.de_05BF617C42
-{
-	font-family: "Calibri";
-}
 span.de_13B41334B1
 {
 	font-family: "Calibri";
@@ -129,6 +128,12 @@ span.de_4CD179DA38
 	font-size: 11pt;
 	color:#000000;
 }
+span.de_4E83C65B13
+{
+	font-family: "Arial";
+	font-size: 9pt;
+	color:#546e7a;
+}
 span.de_591261B921
 {
 	font-family: "Quattrocento Sans";
@@ -141,14 +146,11 @@ span.de_7E4D78CFF8
 	font-size: 13pt;
 	color:#000000;
 }
-span.de_7EA41EC2FA
+span.de_95A4C450B6
 {
-	font-size: 16pt;
-}
-span.de_8217D5C117
-{
-	font-family: "Calibri";
-	color:#ec4113;
+	font-family: "Arial";
+	font-size: 11pt;
+	color:#4f87fd;
 }
 span.de_98E0EFBD89
 {
@@ -156,6 +158,18 @@ span.de_98E0EFBD89
 	font-size: 11pt;
 	color:#000000;
 	text-decoration:underline;
+}
+span.de_C1B562ADE7
+{
+	font-family: "Arial";
+	font-size: 9pt;
+	color:#b0b0b0;
+}
+span.de_D6409C43B2
+{
+	font-family: "Arial";
+	font-size: 13pt;
+	color:#375db0;
 }
 .list-element {
 	list-style-type: none;
@@ -167,7 +181,7 @@ span.de_98E0EFBD89
 	text-align: left;
 	padding: 0;
 	margin: 0;
-	content: '' counter(list-counter-0, decimal) '.\00a0';
+	content: '' counter(list-counter-0, disc) '\00a0';
 	counter-increment: list-counter-0;
 }
 .list-counter-0 > div > div[class='list-marker-chm'] {

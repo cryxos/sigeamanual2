@@ -8,9 +8,9 @@
 	{ "s": "IMPRIMIR", "p": [8] },
 	{ "s": "INDICA", "p": [11] },
 	{ "s": "INDICADOR", "p": [8, 5] },
-	{ "s": "INDICADORES", "p": [11, 10, 6] },
+	{ "s": "INDICADORES", "p": [11, 10, 6, 2] },
 	{ "s": "INFERIOR", "p": [8] },
-	{ "s": "INFORMACIÓN", "p": [11, 10, 13, 8, 6, 3, 4, 1] },
+	{ "s": "INFORMACIÓN", "p": [11, 10, 13, 8, 6, 3, 4, 2, 1] },
 	{ "s": "INGRESADO", "p": [10] },
 	{ "s": "INGRESANDO", "p": [8] },
 	{ "s": "INGRESAR", "p": [11, 10, 3] },
@@ -24,6 +24,6 @@
 	{ "s": "INSTITUCIONAL", "p": [13] },
 	{ "s": "INTEGRAN", "p": [11] },
 	{ "s": "INTERVENCIÓN", "p": [12] },
-	{ "s": "INTRANET", "p": [10, 9, 3] },
+	{ "s": "INTRANET", "p": [10, 9, 3, 2] },
 	{ "s": "IR", "p": [12] }
 ]
