@@ -6,8 +6,12 @@
 	{ "s": "HAGA", "p": [11, 10, 8, 6, 13, 12, 7, 4] },
 	{ "s": "HAN", "p": [13, 12] },
 	{ "s": "HAYA", "p": [10] },
+	{ "s": "HDU59T", "p": [14] },
+	{ "s": "HDU59T-JL3I", "p": [14] },
 	{ "s": "HIPERVÍNCULO", "p": [11, 12] },
 	{ "s": "HIPERVÍNCULOS", "p": [11] },
 	{ "s": "HOJA", "p": [11, 8] },
-	{ "s": "HORARIAS", "p": [11] }
+	{ "s": "HORARIAS", "p": [11] },
+	{ "s": "HTTPS", "p": [14] },
+	{ "s": "HTTPS://WWW.YOUTUBE.COM/WATCH?V", "p": [14] }
 ]

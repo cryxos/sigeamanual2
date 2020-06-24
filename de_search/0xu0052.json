@@ -18,7 +18,7 @@
 	{ "s": "REGISTRADORES", "p": [10] },
 	{ "s": "REGISTRADOS", "p": [11, 5] },
 	{ "s": "REGISTRAR", "p": [11] },
-	{ "s": "REGISTRO", "p": [11, 13, 3, 10, 9] },
+	{ "s": "REGISTRO", "p": [11, 13, 3, 14, 10, 9] },
 	{ "s": "RELACIONADOS", "p": [11] },
 	{ "s": "RELACIONES", "p": [10] },
 	{ "s": "REPITEN", "p": [4] },
