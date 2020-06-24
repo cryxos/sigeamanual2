@@ -49,7 +49,6 @@
 	{ "s": "CONSULTAR", "p": [11, 8, 7, 6, 5] },
 	{ "s": "CONTAR", "p": [11] },
 	{ "s": "CONTENIDAS", "p": [4] },
-	{ "s": "CONTENIDO", "p": [9] },
 	{ "s": "CONTIENE", "p": [8] },
 	{ "s": "CONTIENEN", "p": [4] },
 	{ "s": "CONTRASEÑA", "p": [10] },
