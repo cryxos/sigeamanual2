@@ -1142,10 +1142,10 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
     // menu
-    DREX_NODE_NAMES: ["Página principal","1. Guía de Usuario","2. Videos de ayuda","3. F.A.Q.","1.1. Acceso al Sistema","1.2. Búsqueda por palabras en el título, descripción, objetivos, limitaciones.","1.3. Búsqueda según el Marco Ordenador","1.4. Búsqueda según Entidad registradora de información","1.5. Búsqueda según Ubicación Territorial","1.6. Consulta de Estadísticas","1.7. Intranet","1.8. Registro de variables / Indicadores","1.9. Mensajes","1.10. Control de procesos","1.7.1. Acceso al Intranet"],
-    DREX_NODE_LINKS: ["index.htm","guia_de_usuario.htm","videos_de_ayuda.htm","f_a_q_.htm","acceso_al_sistema.htm","busqueda_por_palabras_en_el_titulo__descripcion__objetivos__limitaciones_.htm","busqueda_segun_el_marco_ordenador.htm","busqueda_segun_entidad_registradora_de_informacion.htm","busqueda_segun_ubicacion_territorial.htm","consulta_de_estadisticas.htm","intranet.htm","registro_de_variables___indicadores.htm","mensajes.htm","control_de_procesos.htm","acceso_al_intranet.htm"],
-    DREX_NODE_CHILD_START: [1,4,14,14,14,14,14,14,14,14,14,15,15,15,15],
-    DREX_NODE_CHILD_END: [4,14,14,14,14,14,14,14,14,14,15,15,15,15,15],
+    DREX_NODE_NAMES: ["Página principal","Tabla de contenidos","1. Guía de Usuario","2. Videos de ayuda","3. F.A.Q.","1.1. Acceso al Sistema","1.2. Búsqueda por palabras en el título, descripción, objetivos, limitaciones.","1.3. Búsqueda según el Marco Ordenador","1.4. Búsqueda según Entidad registradora de información","1.5. Búsqueda según Ubicación Territorial","1.6. Consulta de Estadísticas","1.7. Intranet","1.8. Registro de variables / Indicadores","1.9. Mensajes","1.10. Control de procesos","1.7.1. Acceso al Intranet"],
+    DREX_NODE_LINKS: ["index.htm","tabla_de_contenidos.htm","guia_de_usuario.htm","videos_de_ayuda.htm","f_a_q_.htm","acceso_al_sistema.htm","busqueda_por_palabras_en_el_titulo__descripcion__objetivos__limitaciones_.htm","busqueda_segun_el_marco_ordenador.htm","busqueda_segun_entidad_registradora_de_informacion.htm","busqueda_segun_ubicacion_territorial.htm","consulta_de_estadisticas.htm","intranet.htm","registro_de_variables___indicadores.htm","mensajes.htm","control_de_procesos.htm","acceso_al_intranet.htm"],
+    DREX_NODE_CHILD_START: [1,5,5,15,15,15,15,15,15,15,15,15,16,16,16,16],
+    DREX_NODE_CHILD_END: [5,5,15,15,15,15,15,15,15,15,15,16,16,16,16,16],
     DREX_MENU_TYPE: 2,
     DREX_HAS_ROOT_NODE: 0};
 
