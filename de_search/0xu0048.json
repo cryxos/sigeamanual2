@@ -1,17 +1,18 @@
 [
+	{ "s": "H", "p": [23] },
 	{ "s": "HABER", "p": [12] },
-	{ "s": "HACEMOS", "p": [12] },
+	{ "s": "HACEMOS", "p": [12, 24, 23, 22] },
 	{ "s": "HACER", "p": [12, 9, 13, 8] },
 	{ "s": "HACIENDO", "p": [12, 9, 8, 7] },
-	{ "s": "HAGA", "p": [12, 11, 9, 7, 14, 13, 8, 5] },
+	{ "s": "HAGA", "p": [12, 11, 9, 7, 21, 14, 13, 8, 5] },
 	{ "s": "HAN", "p": [14, 13] },
 	{ "s": "HAYA", "p": [11] },
-	{ "s": "HDU59T", "p": [15] },
-	{ "s": "HDU59T-JL3I", "p": [15] },
+	{ "s": "HDU59T", "p": [25] },
+	{ "s": "HDU59T-JL3I", "p": [25] },
 	{ "s": "HIPERVÍNCULO", "p": [12, 13] },
 	{ "s": "HIPERVÍNCULOS", "p": [12] },
 	{ "s": "HOJA", "p": [12, 9] },
 	{ "s": "HORARIAS", "p": [12] },
-	{ "s": "HTTPS", "p": [15] },
-	{ "s": "HTTPS://WWW.YOUTUBE.COM/WATCH?V", "p": [15] }
+	{ "s": "HTTPS", "p": [25] },
+	{ "s": "HTTPS://WWW.YOUTUBE.COM/WATCH?V", "p": [25] }
 ]

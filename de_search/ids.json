@@ -13,6 +13,16 @@
 	"12": ["1.8. Registro de variables / Indicadores", "registro_de_variables___indicadores.htm"],
 	"13": ["1.9. Mensajes", "mensajes.htm"],
 	"14": ["1.10. Control de procesos", "control_de_procesos.htm"],
-	"15": ["2. Videos de ayuda", "videos_de_ayuda.htm"],
-	"16": ["3. F.A.Q.", "f_a_q_.htm"]
+	"15": ["Pasos para Registradores", "pasos_para_registradores.htm"],
+	"16": ["a. Iniciar sesión", "a__iniciar_sesion.htm"],
+	"17": ["b. Ingresar al módulo variables / indicadores", "b__ingresar_al_modulo_variables___indicadores.htm"],
+	"18": ["c. Registrar una variable / indicador", "c__registrar_una_variable___indicador.htm"],
+	"19": ["d. Configurar el contenido de una variable / indicador", "d__configurar_el_contenido_de_una_variable___indicador.htm"],
+	"20": ["e. Registrar ficha Técnica", "e__registrar_ficha_tecnica.htm"],
+	"21": ["f. Agregar descriptores", "f__agregar_descriptores.htm"],
+	"22": ["g. Solicitar revisión de la ficha técnica", "g__solicitar_revision_de_la_ficha_tecnica.htm"],
+	"23": ["h. Registar datos para la variable / indicador", "h__registar_datos_para_la_variable___indicador.htm"],
+	"24": ["Pasos para SIAR", "pasos_para_siar.htm"],
+	"25": ["2. Videos de ayuda", "videos_de_ayuda.htm"],
+	"26": ["3. F.A.Q.", "f_a_q_.htm"]
 }
